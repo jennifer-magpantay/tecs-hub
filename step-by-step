@@ -1,0 +1,16 @@
+1. instalar o mongo no pc - setar caminho absoluto
+2. criar conta mongoDB Atlas - free cluster 
+3. baixar o mongo compass para o pc
+4. criar projeto VS Code pelo npm init
+5. instalar dependencias para o projeto: express, mongo, mongoose, nodemon, dotenv, cors pelo 
+npm install express mongo mongoose nodemon dotenv cors
+6. criar um documento chamado app.js 
+7. setar comunicacao do banco de dados com a api
+8. criar pastas para models, controllers, routes, view , data (modelos, controladores, rotas, visao, dados)
+9. models:
+10. controllers:
+11. rotas:
+12. views: possui os documentos para a página (html/css/js)
+13. dados: os dados utilizados para criar o bando de dados (só para constar, nao necessário)
+14. criar conta no postman e baixar a versao desktop
+
