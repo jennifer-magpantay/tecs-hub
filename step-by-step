@@ -5,12 +5,15 @@
 5. instalar dependencias para o projeto: express, mongo, mongoose, nodemon, dotenv, cors pelo 
 npm install express mongo mongoose nodemon dotenv cors
 6. criar um documento chamado app.js 
-7. setar comunicacao do banco de dados com a api
-8. criar pastas para models, controllers, routes, view , data (modelos, controladores, rotas, visao, dados)
-9. models:
-10. controllers:
-11. rotas:
-12. views: possui os documentos para a página (html/css/js)
-13. dados: os dados utilizados para criar o bando de dados (só para constar, nao necessário)
+7. setar comunicacao do banco de dados com a api em app.js
+8. criar pastas para models, controllers, routes, public , data (modelos, controladores, rotas, publico, dados)
+9. models: definidos os modelos/schemas dos nossos banco de dados (dados e cnae)
+10. controllers: definicao dos metodos baseados nas rotas
+11. rotas: requisicoes da aplicacao
+12. public: possui os documentos para a página - front end(html/css/js)
+13. data: os dados utilizados para criar o bando de dados (só para constar, nao necessário)
 14. criar conta no postman e baixar a versao desktop
+15. criar um arquivo .env e inserir nele todas as senhas (seguranca)
+16. criar um .gitignore e inserir /node_modules e .env (esconde os arquivos quando subir para o repositorio)
+17. criar um arquivo .sample-env e nele adicionar os campos necessários que foram 'escondidos' pelo .env
 

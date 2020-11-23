@@ -6,13 +6,14 @@ import dotenv from 'dotenv/config.js';
 // importando classes
 import { dataRouter } from './routes/dataRouter.js'
 
-// criando o app
+// criando e iniciando o app
 const app = express();
 app.use(express.json());
 app.use(dataRouter);
 app.listen(3000, () => console.log("API started"))
 
 // --------- CONEXAO COM MONGODB PELO MONGOOSE ----------//
+// substituir process.env.URI pelo link de conexao do MongoDB da conta do TECS
 await mongoose.connect(process.env.URI, {
     useNewUrlParser: true,
     useUnifiedTopology: true
