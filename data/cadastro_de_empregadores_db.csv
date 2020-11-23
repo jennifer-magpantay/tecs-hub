@@ -1,0 +1,122 @@
+id,ano_acao_fiscal,uf,empregador,cnpj_cpf,estabelecimento,n_trabalhadores_envolvidos,cnae,decisao_administrativa,data_inclusao_cadastro_empregadores
+1,2019,PB,A I  Maciel Mineração,12.985.350/0001-33,"Sítio Olho D'Água da Viração, Zona Rural, Salgadinho/PB",12,2399-1/99,02/12/2019,05/10/2020
+2,2019,MA,A. Richard Tavares Lima,08.229.828/0001-28,"Fazenda Thamia, BR-222, Nº 20, Km 10, Povoado Esperantina, Zona Rural, Santa Luzia/MA",19,0151-2/01,28/11/2019,03/04/2020
+3,2019,MA,A.B. De Oliveira Agronegócios EPP,30.959.210/0001-72,"Fazenda Macapá, estrada para cachoeira do Macapá, Zona Rural, Fortaleza dos Nogueiras/MA",2,0161-0/99,25/07/2019,03/10/2019
+4,2018,DF,Acacio Toratti,068.504.158-16,"Fazenda Nova Esperança/Nova Corrente/Gralha Azul, GO-108, sentido Sítio D'Abadia/GO, Mambaí/GO",87,0134-2/00,23/10/2019,03/04/2020
+5,2017,MS,Adriano Diaz Rodrigues,10.488.127/0001-55,"Fazenda São João, Zona Rural, Corumbá/MS",9,0161-0/03,06/11/2018,03/04/2019
+6,2019,PR,Agroflorestal Schultz Ltda,26.396.600/0001-04,"Linha Santa Terezinha (Papuã), Município de Bituruna/PR",5,0139-3/02,30/12/2019,05/10/2020
+7,2018,BA,Alan Cassio Ramos Santos,529.821.655-20,"Residencial Ecológico Juerana, Avenida João da Sunga, s/n, Porto Seguro/BA",1,6810-2/01,13/05/2019,03/10/2019
+8,2018,GO,Alaor Gonzaga de Castro,095.111.131-00,"Fazenda Princesa do Rio Pintado, Rod. BR-080, Km 334, Zona Rural Bonópolis/GO.",3,0151-2/01,17/01/2020,03/04/2020
+9,2018,MG,Aldacyr Campos de Paiva,532.450.246-49,"Sítio Cafua, Zona Rural, Turvolândia/MG",1,0134-2/00,27/09/2018,03/04/2020
+10,2017,BA,Amarílio Souza Santos,074.684.155-87,"Fazenda Cachoeira do Espinho e Fazenda Samanta, rod. BA-506, Zona Rural SN, Vila da Jangada, Cardeal da Silva/BA",4,0220-9/02,18/02/2019,03/10/2019
+11,2018,ES,Andrissão Roque Quintino,070.852.627-61,"Sítio Bom Retiro, Bom Retiro, Distrito de Ibitirui, Alfredo Chaves/ES",6,0133-4/02,13/02/2019,03/10/2019
+12,2017,TO,Anicácio Oliveira Macedo,360.711.961-91,"Fazenda Boa Vista, via Cachoeira, Km 21, Zona Rural, Sandolândia/TO",3,0151-2/03,26/10/2018,03/04/2019
+13,2018,MG,Antônio Ademilson Rabelo dos Santos,739.718.986-53,"Fazendas Buriti e Jandira/Planeta, Km 83 da rod. MG-479, Zona Rural, Lassance/MG",25,0220-9/02,19/02/2019,03/10/2019
+14,2015,RJ,Antônio José Francisco,958.987.357-04,"Embarcação Alarriba, Cais da 88, Ilha da Conceição, Niterói/RJ",5,0311-6/01,10/11/2017,03/04/2020
+15,2018,MA,Antônio Souza Da Costa,010.707.733-79,"Carnaubal e alojamento localizados nos povoados Madeira Cortada e Corisco, Zona Rural, São Bernardo/MA",13,0220-9/99,04/02/2019,03/10/2019
+16,2017,PA,Antônio Zimar Oliveira Alencar,419.774.321-15,"Fazenda do Bananal, Fazenda Borbulha, Fazenda Pium, Fábrica de Caixa, Altamira/PA",16,0133-4/02,01/11/2018,03/04/2019
+17,2017,CE,Benedito Monteiro dos Santos Filho,026.651.403-06,"Fazenda Terras da Santa, Rod.CE-085, Cruz/CE e Fazenda Lagoa do Canema, BR- 403, Km 13, Celsolândia, Acaraú/CE",3,0220-9/99,23/10/2018,03/04/2019
+18,2015,RJ,Brasil Global Serviços de Empreiteira Eireli,15.702.687/0001-84,"Canteiro de obras da Vila Olímpica, Rio de Janeiro/RJ",10,4120-4/00,31/10/2019,03/04/2020
+19,2017,RR,C. de M. Porto,13.146.366/0001-15,"Porto Eventos, Av. Bento Brasil, nº 2.056, São Vicente, Boa Vista/RR",6,7739-0/03,08/02/2019,03/04/2019
+20,2018,PA,Canrobert Domingos da Costa,117.491.801-20,"Fazenda Sonho Meu, Estrada Cristalina, Km 110, zonal rural, Cumaru do Norte/PA",12,0151-2/01,18/09/2018,03/04/2019
+21,2017,MT,Carlos Alberto Bento,295.713.751-87,"Sítio dos Cabritos, Zona Rural, Confresa/MT",1,0151-2/02,22/06/2018,03/04/2019
+22,2019,MG,Cerâmica União Ltda.,18.640.227/0001-67,"Fazendas São Francisco/Lamarão, BR-251, Km 386 e 380, sentido Montes Claros à direita, Vale das Cancelas, Grão Mogol-MG",4,0210-1/08,03/12/2019,03/04/2020
+23,2018,PA,César Wericom Reis Campos Silva,680.981.972-04,"Fazenda São João, Zona Rural, Novo Repartimento/PA",5,0151-2/01,11/09/2018,03/04/2019
+24,2017,BA,Chaves Agrícola e Pastoril Ltda,15.639.495/0001-70,"Fazenda Diana, Zona Rural, Uruçuca/BA",9,0135-1/00,19/08/2019,03/04/2020
+25,2019,SP,Claudia Barreto Fernandes Cafe e Folhas,28.645.167/0001-29,"Verdejante Café Com Folha, Rua Desembargador do Vale, 114, Perdizes, São Paulo/SP",1,5611-2/03,29/10/2019,03/04/2020
+26,2018,ES,Claudionor Avancini,009.750.517-09,"Fazenda Boa Esperança, Córrego do Francês, Jacupemba, Aracruz/ES",10,0134-2/00,11/03/2019,03/10/2019
+27,2018,PA,Clevis Siriano De Oliveira,619.274.222-72,"Fazenda Barra Mansa, Vicinal do Cleber Boiadeiro, Zona Rural, Novo Repartimento/PA",2,0151-2/01,08/04/2019,03/10/2019
+28,2018,CE,Construtora Caldas Ltda,05.315.882/0001-06,"Alojamento, Av. Rogaciano Leite, 970, Bairro Patriolino Ribeiro, Fortaleza/CE",10,4120-4/00,16/08/2019,03/10/2019
+29,2018,TO,D. M. de Freitas - Carvão,16.804.341/0001-50,"Fazenda São Sebastião, Lote Dueré S/N, Zona Rural, Santa Rita do Tocantins/TO",9,0220-9/02,20/02/2020,03/04/2020
+30,2018,ES,Daniel Mageste Lessa,122.166.357-74,"Fazenda Córrego do Ouro, Zona Rural de Pinheiros/ES",57,0134-2/00,14/02/2019,03/10/2019
+31,2019,MG,Davi Pereira Chaves,363.355.766-00,"Fazenda Fetais, 6 km do Centro de Exposições Agropecuárias, Zona Rural, Córrego Danta/MG",4,0210-1/08,01/08/2019,03/04/2020
+32,2018,AL,Edmilson Vanderlei Gomes,422.078.434-91,"Casa de Farinha, Zona Rural, Feira Grande/AL",52,1063-5/00,24/10/2018,03/04/2019
+33,2018,MT,Ednei Rodrigues Pimenta,229.780.461-04,"Fazenda Nossa Senhora Aparecida, BR 348, Km 486, Zona Rural, Espinhaço, Várzea Grande/MT",1,0151-2/03,17/09/2018,03/04/2019
+34,2018,MG,Elias Rodrigo de Almeida,060.778.656-64,"Fazenda Córrego da Prata, Zona Rural, Muzambinho/MG",15,0134-2/00,19/08/2019,03/04/2020
+35,2018,MG,Emílio Augusto Barbosa Ferreira,063.434.046-86,"Fazenda Santa Izabel II, Zona Rural, Córrego Danta/MG",19,0134-2/00,19/12/2018,03/04/2019
+36,2017,SP,Engetal Engenharia e Construções Ltda,57.632.705/0001-49,"Obras ETEC e FATEC, Rua Cristóbal Cláudio Elilo, Guarulhos/SP",21,4120-4/00,05/09/2017,"10/04/2018 a
+13/12/2019 e
+16/10/2020"
+37,2019,MG,Ernesto Tardeli Junior,032.203.918-50,"Fazenda Santa Fé, Bairro Pinhalzinho Lopes, Zona Rural, Ouro Fino/MG",17,0134-2/00,13/12/2019,03/04/2020
+38,2018,MG,Ézio Luiz Jardini,742.881.568-15,"Fazenda Santa Tereza, Rodovia Ibiraci-Franca, Zona Rural, Ibiraci/MG",5,0134-2/00,19/11/2019,03/04/2020
+39,2016,MA,Ezir de Sousa Leite,044.673.103-04,"Fazenda Vale do Rio Azul, Estrada da Sunil, Km 60, Zona Rural, Açailândia/MA",8,0151-2/01,20/09/2018,03/04/2019
+40,2019,MG,Fabio Caixeta,034.669.696-89,"Fazenda Varginha/Sítio Sonho Meu I, Zona Rural, Turvolândia/MG",7,0134-2/00,14/10/2019,03/04/2020
+41,2019,MS,Fernanda Taques Thomazelli,033.799.159-63,"Fazenda Copacabana, Zona Rural, Aquidauana/MS",9,0151-2/01,29/10/2019,03/04/2020
+42,2017,RS,Flávia Cutti Arossi,02.861.503/0001-87,"Canaã Reciclagem e Transporte de Resíduos, Estrada Arossi, Linha Santos Filho, Zona Rural, Anta Gorda/RS",2,4687-7/01,02/10/2018,03/04/2019
+43,2019,DF,Folha de Palmeiras Produtos Alimentícios Ltda,17.696.274/0001-60,"Chácara Folha de Palmeira, Rodovia DF-290, Km 26, S/N, Km 10,  Núcleo Rural Ponte Alta de Cima, Brasília/DF",79,1091-1/02,30/09/2019,05/10/2020
+44,2018,PA,Francisco Cunha Sobrinho,156.552.292-34,"Fazenda Arapari, Vicinal Recanto Goiano, 238, Zona Rural, Tucuruí/PA",10,0220-9/03,10/07/2019,03/10/2019
+45,2018,SP,Francisco Neivan Alves da Silva,14.362.970/0001-41,"Crediário Silva 2, Galpão Rua Geraldo Sérgio Fabri, nº 52, Salto/SP",28,4721-1/03,05/09/2019,03/04/2020
+46,2018,PI,Francisco Quaresma De Sousa,239.298.203-15,"Fazenda Poção, Zona Rural, Batalha/PI",6,0220-9/99,04/02/2019,03/10/2019
+47,2018,SP,Francisco Sabino Barbosa,901.610.763-00,"Crediário, Galpão Rua São José, nº 10, Vila São Pedro, São Bernardo do Campo/SP",24,4721-1/03,12/06/2019,03/04/2020
+48,2017,AP,Frederico Senna Processamento de Dados Ltda,07.127.638/0001-37,"Garimpo do Lourenço, Calçoene/AP",6,0724-3/01,15/10/2018,03/04/2020
+49,2019,MG,G. Oliveira CPF 643.672.668-34,27.343.207/0001-15,"Fazenda Ribeirão Santana, Estrada Grão Mogol/Barragem de Irapé, Km 60, Zona Rural, Grão Mogol/MG",3,0210-1/07,20/09/2019,03/04/2020
+50,2016,RJ,Gasindur do Brasil Ltda,04.547.165/0001-39,"Alojamento, Rua Miguel Cervantes, 442, Cachambi, Rio de Janeiro/RJ",2,4322-3/01,02/04/2018,03/10/2019
+51,2018,GO,Geraldo Dorneles Amaral,374.523.711-00,"Fazenda São João, GO-070, Km 139, Zona Rural, Goiás/GO",2,0810-0/06,17/01/2020,03/04/2020
+52,2017,MG,Gilberto Ferreira de Souza,037.698.626-35,"Projeto Jaíba, Lotes 10, 11 e 15, Zona Rural, Jaíba/MG",1,0133-4/02,15/10/2018,03/04/2019
+53,2018,MG,Gilson Gonçalves Valadares,627.599.226-34,"Fazenda Tanques, Zona Rural, São Gonçalo do Abaeté/MG",2,0220-9/02,10/01/2020,03/04/2020
+54,2018,MG,Helvécio Sebastião Batista,301.409.276-20,"Fazenda Cedro II, Zona Rural, Serra do Salitre/MG",6,0134-2/00,04/03/2019,03/04/2019
+55,2018,MG,I. Y. J. Indústria e Comércio de Carvão Ltda,10.865.469/0001-47,"Sítio Bucaína, 220, Recanto da Lagoa, Ibirité/MG",1,0220-9/02,13/06/2019,03/10/2019
+56,2017,GO,IC Construções EIRELI,03.467.890/0001-34,"Canteiro de Obras do Residencial David Barbosa, Guapó/GO",21,4120-4/00,31/10/2018,03/04/2019
+57,2018,GO,Ivan Elias Martins,517.052.731-49,"Fazenda Fronha, GO-184, Km 48, Zona Rural, Serranópolis/GO",1,0220-9/02,28/09/2018,03/04/2019
+58,2018,SC,Jefferson Zaion Laskawski,084.045.129-65,"Fazenda Cambará, BR-116, Km 284, Coxilha Rica, Zona Rural, Lages/SC",11,0119-9/03,23/04/2019,03/10/2019
+59,2018,MG,Joair Aparecido de Oliveira,825.453.406-34,"Córrego Alto Cobrador, S/N, Zona Rural, Conceição de Ipanema/MG",3,0134-2/00,14/10/2019,03/04/2020
+60,2018,PA,João Alves Moreira,059.193.551-15,"Fazenda Três Palmeiras, Estrada Garimpinho, Zona Rural, Santana do Araguaia/PA",13,0151-2/01,27/12/2018,03/04/2019
+61,2019,MG,João Amilton Pinheiro,015.789.446-00,"Fazenda Riacho das Varas, Distrito de Conselheiro Mata, Diamantina/MG",6,0210-1/08,08/07/2019,03/10/2019
+62,2018,PI,João Ferreira Cunha,150.589.563-49,"Pedreira, Zona Rural, Nossa Senhora de Nazaré/PI",20,0810-0/99,01/02/2019,03/04/2020
+63,2015,MG,Joaquim Maurício de Toledo,358.394.658-87,"Fazenda Santa Marina, Estrada Claraval a Ibiraci, Km 8,5; Zona Rural, Claraval/MG",13,0134-2/00,07/10/2015,03/04/2019
+64,2016,MG,José Alaércio de Oliveira,729.116.466-49,"Fazenda Monjolinho, Bairro Quebra Machado, Poço Fundo/MG",20,0134-2/00,10/04/2017,"27/10/2017 a
+06/04/2018 e
+29/07/2019"
+65,2018,AL,José Júlio de Farias Júnior,947.902.304-06,"Casa de Farinha, Zona Rural, Feira Grande/AL",38,1063-5/00,10/01/2019,03/04/2019
+66,2019,TO,José Rosa Júnior,377.609.801-59,"Fazenda Macedônia I, TO-430, Bernardo Sayão/TO",4,0151-2/01,17/10/2019,03/04/2020
+67,2017,CE,L F Carneiro Júnior,04.843.485/0001-36,"Rua 36, nº 428, Jereissati I, Maracanaú/CE",2,1412-6/01,01/06/2018,03/04/2019
+68,2018,MG,Luiz Cláudio Queiroz Marques da Cruz,376.341.351-00,"Fazenda Boa Esperança, Zona Rural, Pratinha/MG",22,0134-2/00,01/11/2018,03/04/2020
+69,2019,PB,Manoel Ovidio Gomes,059.343.434-08,"Sítio Galo Branco, Zona Rural, Junco do Seridó, PB",4,0810-0/10,12/11/2019,03/04/2020
+70,2018,PA,Marcelino José Biancardi,587.263.222-34,"Sítio Dona Rita, Zona Rural, Brasil Novo/PA",1,0135-1/00,10/10/2018,03/04/2019
+71,2019,MG,Marcio Areda Vasconcelos,967.001.906-06,"Condomínio de Empregadores Rurais Santa Maria, Rua Benedito João Joaquim Anselmo, 430, Paracatuzinho, Paracatu/MG",67,0111-3/02,07/10/2019,03/04/2020
+72,2017,PA,Marcos Antônio Cândido de Lucena,916.709.421-04,"Fazenda Morro Alto, Km 28 do Abóbora, Zona Rural, São Geraldo do Araguaia/PA",7,0151-2/01,15/10/2018,03/04/2019
+73,2017,RJ,Marcos Paulo Ferreira,070.981.917-01,"Sítio Natalino Mendonça, Estrada do Rio Mole, Travessa Marcos Ferreira Porto, nº 5, Zona Rural, Rio Mole, Saquarema/RJ",2,0133-4/02,08/06/2018,03/04/2019
+74,2018,CE,Maria Eunice De Sousa Santos,675.471.173-68,"Carnaubal, CE-040, Km 58, Choró, Zona Rural, Beberibe/CE",3,0220-9/99,10/07/2019,03/10/2019
+75,2019,MG,Maria José de Menezes,665.422.196-68,"Fazenda 3 Irmãos, Distrito de Tejuco, Zona Rural, Brumadinho/MG",2,9700-5/00,08/11/2019,03/04/2020
+76,2018,MG,Mário Gomes Da Silva,463.816.601-63,"Fazenda Cachoeira do Quebra Anzol, Estrada do Valo Veio, Km 18, Zona Rural, Ibiá/MG",6,0230-6/00,17/01/2019,03/04/2019
+77,2018,MT,Mario Noronha da Mota,876.063.481-20,"Sítio Motta, Estrada Tapejara, Zona Rural, Nova Bandeirantes/MT",1,0151-2/01,28/12/2018,03/04/2020
+78,2018,CE,Marques Engenharia EIRELI,29.182.846/0001-71,"Canteiro de obras, Rua Pereira Valente, 591, Meireles,Fortaleza/CE",6,7739-0/99,21/10/2018,03/04/2019
+79,2014,MG,Matec Engenharia e Construções Ltda,64.978.646/0001-20,"Canteiro de obras, BR - 040, antes do trevo de Moeada/MG, Itabirito/MG",26,4120-4/00,11/10/2018,"03/04/2019 a
+23/7/2019 e
+17/10/2019"
+80,2015,RJ,Mauri Gomes de Souza,801.712.227-68,"Embarcação Lara, Cais da 88, Ilha da Conceição, Niterói/RJ",6,0311-6/01,15/11/2017,03/04/2020
+81,2017,MT,Nelson Oliveira da Silva Santos,553.454.849-53,"Fazenda, Zona Rural, Ipiranga do Norte/MT",9,0220-9/01,28/02/2019,03/04/2020
+82,2018,SP,Nivaldo Neves Barbosa,08.069.095/0001-01,"Sítio da Colina, Estrada Municipal Fazenda Itaguá da Floresta, Nº 247, Bairro Pedregulho, Zona Rural, Itu/SP",8,0119-9/04,05/09/2019,03/04/2020
+83,2018,MG,Nova Visão Assessoria E Consultoria Empresarial Ltda,11.626.418/0001-25,"Comunidade Cristã Traduzindo o Verbo, Rua Marechal Floriano Peixoto, Nº 132, Fundos, Centro, São Vicente de Minas/MG",565,7020-4/00,10/01/2020,03/04/2020
+84,2018,CE,O K  Empreendimentos Construções E Serviços Ltda,08.642.026/0001-45,"Canteiro de Obras, BR-304, Km 21, Forquilha, Beberibe/CE",16,4120-4/00,02/12/2019,03/04/2020
+85,2018,MG,Osnivaldo Carriel Cordeiro,290.331.998-74,"Fazenda Ferradura, BR-365, Km 479 + 9 Km à direita sentido Patrocínio/Uberlândia, Zona Rural, Patrocínio/MG",16,0119-9/09,31/01/2019,03/04/2019
+86,2016,BA,Parque de Vaquejada Maria do Carmos Ltda/EPP,02.672.529/0001-87,"Av. Valdete Carneiro s/n, Bairro Vaquejada, Serrinha/BA",17,9001-9/05,03/05/2019,"03/10/2019 a 14/02/2020 (I),
+14/02/2020 a 12/08/2020 (II) e
+12/08/2020 (III)"
+87,2018,RR,Paulo Kennedy Lima Dias de Souza Cruz,230.166.202-00,"Fazenda Pau Baru, RR-203, Km 90, sentido Tepequém, Zona Rural, Amajari/RR",3,0151-2/01,26/11/2018,03/04/2019
+88,2017,MT,Paulo Roberto Cândido,328.370.461-91,"Fazendas 3P e Beira Rio, estrada de acesso ao Vale do XV, Gleba Iriri, Zona Rural, Guarantã do Norte/MT",4,0151-2/01,01/11/2018,03/04/2019
+89,2019,MS,Pedro Luiz Tutija,420.926.801-10,"Fazenda São Judas Tadeu, Zona Rural, Rochedo/MS",6,0210-1/08,14/06/2019,03/04/2020
+90,2017,BA,Projecamp Engenharia Ltda./ME,12.826.492/0001-58,"Obra na Praça Desembargador Montenegro, nº 7, Centro, Camaçari/BA",5,4120-4/00,15/04/2019,03/10/2019
+91,2017,MS,Rafael Pedron Vicente,927.611.511-00,"Fazenda Morro Esperança, Zona Rural, Corumbá/MS",5,0151-2/01,06/11/2018,03/04/2019
+92,2018,PA,Raimunda Oliveira Nunes,338.823.632-15,"Garimpo Coatá, Km-302, BR-230 Transamazônica, sentido Itaituba-Jacareacanga, Jacareacanga/PA",39,0724-3/01,03/09/2019,03/04/2020
+93,2018,MA,Raimundo de Oliveira Nogueira,275.115.293-72,"Carnaubal no Povoado Bom Princípio, Zona Rural, Caxias/MA",20,0220-9/99,05/09/2019,03/04/2020
+94,2017,GO,Raimundo de Sousa Oliveira - Construções,21.792.453/0001-78,"Canteiro de obras do Residencial Eduardo Bomfim, Rua F, Chácara 65, Parque Tremendão, Goiânia/GO",33,4399-1/99,05/03/2018,03/04/2019
+95,2017,PI,Raimundo Rocha da Silva,211.426.963-91,"Fazenda São Miguel, Zona Rural, Bom Princípio do Piauí/PI",4,0220-9/99,11/04/2019,03/10/2019
+96,2014,RJ,Ricardo Carvalho de Araújo,744.968.407-15,Barco Pai Eterno (Cais da Cia de Desenvolvimento de Pesca-Codepe),6,0311-6/01,22/09/2016,03/10/2019
+97,2018,PA,Ricardo Richely Feitosa Teixeira,111.322.814-82,"PA-150, km 133, Bairro Novo, Tailândia/PA",8,4759-8/99,27/06/2019,03/10/2019
+98,2018,GO,RMR/Mecal Construções e Locações de Máquinas EIRELI,19.977.623/0001-47,"Assentamento Real II, Gameleira, Zona Rural, Colinas do Sul/GO",5,0810-0/06,06/11/2018,03/04/2019
+99,2018,PA,Rodrigo do Amaral Carvalho,220.614.778-52,"Fazenda Jaú, Estrada do Girassol, Km 100, São Félix do Xingu/PA",1,0151-2/01,11/10/2019,03/04/2020
+100,2018,GO,Ronan Garcia dos Reis,135.174.301-53,"Obra na Rodovia GO-070, Km 126, à esq mais 5 Km, Zona Rural, Goiás/GO",12,4120-4/00,27/06/2019,03/10/2019
+101,2017,MT,Santa Laura Vicuña/Fazendas Reunidas Ltda,13.697.708/0001-95,"Fazenda Santa Laura Vicuña, estrada do Rio do Fogo, Gleba Cabloco, Nova Santa Helena/MT",23,0111-3/01,11/04/2019,03/10/2019
+102,2016,BA,São Miguel Construções Ltda,05.888.952/0001-07,"Canteiro de obras do Centro Esportivo Unificado, Bairro Nossa Senhora da Vitória, Ilhéus/BA",9,4213-8/00,25/07/2018,03/04/2019
+103,2017,SP,SDI-Serviços de Domésticas e Babás Internacionais,27.355.402/0001-65,"Rua Impata, nº 902, Vila Ré, São Paulo/SP",3,9700-5/00,20/09/2018,03/04/2019
+104,2018,PA,Sebastião Marques da Mota,081.484.491-04,"Fazendas Pedra Branca, Arco Verde e Talismã, Zona Rural, São Geraldo do Araguaia/PA",5,0151-2/01,04/10/2018,03/04/2019
+105,2017,MG,Sebastião Raimundo Madeira,463.333.046-20,"Fazenda Santana da Lagoa Serena, Zona Rural, Jacuí/MG",14,0134-2/00,29/10/2018,03/04/2019
+106,2018,PA,Sérgio Seronni,016.209.211-38,"Fazenda Santa Maria da Boca do Monte, BR-158, km 838, região do Rio Campo Alegre, Zona Rural, Santana do Araguaia/PA",3,0151-2/01,29/10/2018,03/04/2019
+107,2018,RN,Tancredo Fernandes Maia,065.353.464-71,Carnaubal situado no entorno do centro urbano de Ipanguaçu/RN,5,0220-9/99,27/05/2019,03/10/2019
+108,2018,SC,Thenos Florestal Infraestrutura e Logística Ltda,30.116.890/0001-62,"Fazenda Campinho, alojamentos de trabalhadores situados na SC-281 s/nº e na Rua Evaldo Bruggemann nº 399, Rancho Queimado/SC",30,4744-0/02,23/05/2019,03/10/2019
+109,2018,MG,Thor Comércio de Carvão Ltda,23.186.165/0001-03,"Sítio Peroba, Zona Rural, Boa Esperança/MG",8,0210-1/08,28/02/2019,03/10/2019
+110,2018,MG,Valdir da Silva Rezende,084.938.428-18,"Fazenda Ferradura, BR-365, Km 479 + 9 Km à direita sentido Patrocínio/Uberlândia, Zona Rural, Patrocínio/MG",36,0119-9/09,07/02/2019,03/04/2019
+111,2019,MA,Valter Laguna Ferrari,018.653.938-00,"Fazenda VL, Estrada da Gameleira, Zona Rural, Governador Edison Lobão/MA",1,0151-2/01,25/07/2019,03/10/2019
+112,2018,BA,Viação Campo Verde Transporte E Turismo Ltda,07.101.420/0001-03,"Garagem de Ônibus, Rodovia Jorge Amado, Km 12, Ilhéus/BA",1,4929-9/02,07/08/2019,03/04/2020
+113,2017,SP,Work Global Brazil Documentação LTDA/EPP,20.893.179/0001-60,"Rua Fidelis Papini, nº 100, Bloco 1, Apt. 33, Vila Prudente, São Paulo/SP",3,8219-9/99,12/03/2018,03/04/2019
