@@ -42,6 +42,10 @@ const schemaData = mongoose.Schema({
     data_inclusao_cadastro_empregadores: {
         type: String,
         require: true,
+    },
+    cnae_descricao: {
+        type: String,
+        require: true,
     }
 });
 // relacionando o model com: ("nome da collection", schema)

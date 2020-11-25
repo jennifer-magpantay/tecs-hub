@@ -1,5 +1,6 @@
 1. instalar o mongo no pc - setar caminho absoluto
 2. criar conta mongoDB Atlas - free cluster 
+Obs.: criada database nomeada 'tecs-hub'. nesta database, criar duas collections: 'dados' e 'cnae' - nomes diferentes poderao interferir no schema
 3. baixar o mongo compass para o pc
 4. criar projeto VS Code pelo npm init
 5. instalar dependencias para o projeto: express, mongo, mongoose, nodemon, dotenv, cors pelo 
