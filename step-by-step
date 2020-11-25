@@ -16,4 +16,4 @@ npm install express mongo mongoose nodemon dotenv cors
 15. criar um arquivo .env e inserir nele todas as senhas (seguranca)
 16. criar um .gitignore e inserir /node_modules e .env (esconde os arquivos quando subir para o repositorio)
 17. criar um arquivo .sample-env e nele adicionar os campos necessários que foram 'escondidos' pelo .env
-
+17. verificar se "type": "module" está inserido no package.json
